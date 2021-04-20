@@ -6,6 +6,4 @@
 
 [Informe GitHub Pages]()
 
-
 [![Tests](https://github.com/alu0101166247/base2/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/alu0101166247/base2/actions/workflows/tests.yml)
-
